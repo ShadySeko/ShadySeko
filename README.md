@@ -1,7 +1,6 @@
 ### Hello there 👋
 ## Welcome to ShadySeko's personal repo
-
- I'm currently student at HEIG-VD, Switzerland
+I'm currently student at HEIG-VD, Switzerland
 - Learning Computer Security
 
 
