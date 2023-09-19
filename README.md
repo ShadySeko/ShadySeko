@@ -7,6 +7,8 @@ I'm currently student at HEIG-VD, Switzerland
 
 - How to reach me: sergey.komarov@heig-vd.ch
 
+![](myimg.png)
+
 <!--
 **ShadySeko/ShadySeko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
