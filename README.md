@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there 👋
+### Welcome to ShadySeko's personal repo
+
+## I'm currently student at HEIG-VD, Switzerland
+## - Learning Computer Security
+
+
+
+- How to reach me: sergey.komarov@heig-vd.ch
 
 <!--
 **ShadySeko/ShadySeko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
