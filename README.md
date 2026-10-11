@@ -1,11 +1,10 @@
 ### Hello there 👋
 ## Welcome to ShadySeko's personal repo
-I'm currently student at HEIG-VD, Switzerland
-- Learning Computer Security
+I'm currently studying computer security at EPFL, Switzerland
 
 
 
-- How to reach me: sergey.komarov@heig-vd.ch
+- How to reach me: sergey.komarov@epfl.ch
 
 ![](myimg.png)
 
