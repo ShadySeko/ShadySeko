@@ -54,15 +54,7 @@ My interests include cybersecurity, cryptography, systems programming, and softw
 
 </div>
 
----
 
-<div align="center">
-
-<img src="myimg.png" alt="Personal image" width="500"/>
-
-</div>
-
----
 
 <div align="center">
 
